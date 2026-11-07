@@ -12,8 +12,7 @@
 
 ### 🚀 About Me
 
-- 💻 I’m currently focused on 
-- Fullstack Devlopment  
+- 💻 I’m currently focused on Fullstack Devlopment  
 - 📫 Reach me at [**sougatamondal932@gmail.com**](sougatamondal932@gmail.com) <!-- 👉 Replace with your email -->
 
 ---
