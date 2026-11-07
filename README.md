@@ -3,8 +3,6 @@
 <h1 align="center">Hi 🌏, I'm Sougata Mondal</h1>
 <!---<h3 align="center">Roles and Positions separated by | </h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif">
-
 <p align="left"> 
   <!-- 👉 Replace "username" below with your GitHub username -->
   <img src="https://komarev.com/ghpvc/?username=username&label=Profile%20views&color=green&style=flat" alt="username" />
@@ -15,9 +13,7 @@
 ### 🚀 About Me
 
 - 💻 I’m currently focused on 
-- 📱 Exploring 
-- 🎨 Passionate about 
-- 📚 Always eager to 
+- Fullstack Devlopment  
 - 📫 Reach me at [**sougatamondal932@gmail.com**](sougatamondal932@gmail.com) <!-- 👉 Replace with your email -->
 
 ---
@@ -67,7 +63,7 @@
 
 - Build 
 - Improve 
-- Collaborate more through **open-source projects**
+
 
 ---
 
